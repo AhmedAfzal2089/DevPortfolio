@@ -183,6 +183,9 @@ h1, h2, h3, h4, h5, h6 {
 /**
 * Desktop Navigation 
 */
+.logo_img{
+  padding-right: 8px;
+}
 .navbar {
   padding: 0;
   margin-top: 35px;
